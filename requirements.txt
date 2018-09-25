@@ -1,0 +1,7 @@
+pandas
+pyyaml
+requests
+requests_oauthlib
+unicodecsv
+xmltodict
+yahoo_oauth
